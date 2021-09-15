@@ -1,0 +1,56 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+color: purple;
+font-weight: bold;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+canvas{
+    box-shadow: 10px 10px 10px yellow;
+    border-radius: 10px;
+}
+.a_1{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 25px;
+    font-style: italic;
+    color: darkblue;
+}
+.a_2{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+    font-style: italic;
+    color: yellow;
+}
+.a_3{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+    font-style: italic;
+    color: darkblue;
+}
+.a_4{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+    font-style: italic;
+    color: yellow;
+}
+.a_5{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+    font-style: italic;
+    color: darkblue;
+}
+#status,#number_of_objects
+{
+font-size: 18px;
+}
